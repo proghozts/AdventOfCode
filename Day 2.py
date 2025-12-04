@@ -1,4 +1,4 @@
-with open(r"Input/Day2 input.txt") as f:
+with open(r"Input/Day 2 input.txt") as f:
     data = f.read().strip().split(",")
 
 
