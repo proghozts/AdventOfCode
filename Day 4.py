@@ -25,7 +25,7 @@ def paperCheck(data):
 #print(paperCheck(data))
 
 
-def paperCheck2(data):
+def paperCheck2(data): #Yeah not my best solution // could hear my computer rev up the fan to run this
     data = [list(row) for row in data]
     total = 0
     changed = True
