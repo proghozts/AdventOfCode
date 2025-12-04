@@ -1,4 +1,4 @@
-with open(r"C:\Users\ericb\Downloads\Day2 input.txt") as f:
+with open(r"Day2 input.txt") as f:
     data = f.read().strip().split(",")
 
 
