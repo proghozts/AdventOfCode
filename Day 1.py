@@ -1,4 +1,4 @@
-filename  = 'Day 1 Input.txt'
+filename  = 'Input/Day 1 Input.txt'
 
 with open(filename) as file:
     lines = [line.rstrip() for line in file]

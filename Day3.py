@@ -1,4 +1,4 @@
-with open(r"Day 3 input.txt") as f:
+with open(r"Input/Day 3 input.txt") as f:
     data = f.read().split("\n")
 
 testlist = ['987654321111111','811111111111119','234234234234278','818181911112111']
