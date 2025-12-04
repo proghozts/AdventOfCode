@@ -45,8 +45,6 @@ def paperCheck2(data):
                         total += 1
                         changed = True
                         break
-            if changed:
-                break
     return total
 
 print(paperCheck2(data))
